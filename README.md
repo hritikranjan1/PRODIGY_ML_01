@@ -31,7 +31,7 @@ To run this project, ensure you have Python installed on your system. Follow the
 
 1. **Clone the repository** (if applicable):
    ```bash
-   git clone https://github.com/hritikranjan1/sale-price-prediction.git
+   git clone https://github.com/hritikranjan1/PRODIGY_ML_01 .git
    cd sale-price-prediction
 2.Install the necessary libraries using pip:
 
